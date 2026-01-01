@@ -21,7 +21,6 @@ fish_add_path /home/linuxbrew/.linuxbrew/bin
 #########################################
 source ~/.config/fish/alias.fish
 source ~/.config/fish/nvim_versions.fish
-source ~/.local/share/bob/env/env.fish
 ########################################
 ########################################
 
